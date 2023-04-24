@@ -29,9 +29,7 @@ GitPython==3.1.31
 google-auth==2.17.3
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
-grpcio @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f0it_w9tlw/croot/grpc-suite_1681912595383/work
 h11==0.14.0
-h5py @ file:///Users/ktietz/ci_310/h5py_1644262287129/work
 httpcore==0.17.0
 httpx==0.24.0
 idna==3.4
