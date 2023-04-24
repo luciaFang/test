@@ -23,6 +23,8 @@ GitPython==3.1.31
 google-auth==2.17.3
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
+grpcio @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f0it_w9tlw/croot/grpc-suite_1681912595383/work
+h5py @ file:///Users/ktietz/ci_310/h5py_1644262287129/work
 idna==3.4
 imageio==2.28.0
 imageio-ffmpeg==0.4.8
@@ -43,7 +45,7 @@ moviepy==1.0.3
 mtcnn==0.1.1
 numpy==1.24.3
 oauthlib==3.2.2
-opencv-python==4.7.0.72
+opencv-python-headless==4.7.0.72
 opt-einsum==3.3.0
 packaging==23.1
 pandas==1.5.3
